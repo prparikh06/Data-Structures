@@ -30,7 +30,7 @@ public class Trie {
 
 	}
 
-	private static int longestPrefixLength(TrieNode ptr, String[]allWords, String currWord) {
+	private static int longestPrefixLength(TrieNode ptr, String[]allWords, String currWord) { //TODO this method is not fully correct :(
 
 		//initialize ints
 		int wordIndex = ptr.substr.wordIndex, startIndex = ptr.substr.startIndex, pIndex = 0;
