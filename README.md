@@ -1,2 +1,2 @@
 # Data-Structures
-Assignments implemented in CS112
+Assignments implemented in Rutgers CS112 Fall 2018.
